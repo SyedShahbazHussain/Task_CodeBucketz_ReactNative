@@ -1,0 +1,24 @@
+{
+  "name": "task_codebuc",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "map": "1.0.1",
+    "react-native-cardview": "2.0.2",
+    "react-native-elements": "1.1.0",
+    "react-native-grading": "1.0.3",
+    "react-native-material-tabs": "4.1.0",
+    "react-native-paper": "2.16.0",
+    "react-native-ratings": "6.3.1",
+    "react-native-tab-navigator": "0.3.4",
+    "react-native-tab-view": "2.9.0",
+    "react-native-vector-icons": "6.6.0",
+    "simple-react-native-star-rating": "1.0.0"
+  }
+}
